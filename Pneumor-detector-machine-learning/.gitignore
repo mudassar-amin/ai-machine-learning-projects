@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.cache/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+**/.venv/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project artifacts
+data/
+outputs/
+*.ckpt
+*.pt
+*.pth
+*.zip
+
+# Kaggle/keys
+.kaggle/
+kaggle.json
